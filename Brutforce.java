@@ -5,14 +5,14 @@ package com.company;
  */
 public class Brutforce {
   private   static String letters = "QWERTYUIOPASDFGHJKLZXCVBNM0123456789";
-   private static String numbers = "0123456789";
+
 
     public static String brut(){
         StringBuilder randString = new StringBuilder();
         int count = (int)(Math.random()*7);
         for(int i=0;i<7;i++){
             randString.append(letters.charAt((int)(Math.random()*letters.length())));
-          //  randString.append(numbers.charAt((int)(Math.random()*numbers.length())));
+
             }
 
        // System.out.println(randString);
