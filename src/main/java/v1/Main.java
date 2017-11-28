@@ -1,3 +1,5 @@
+package v1;
+
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
@@ -33,7 +35,7 @@ public class Main {
 
         }
        // System.out.println(answer.getHTML("https://www.papajohns.ru/stock/stock/getbycode/123"));
-       // System.out.println(Brutforce.brut());
+       // System.out.println(v1.Brutforce.brut());
         }
     }
 
