@@ -1,12 +1,7 @@
-package com.company;
-
-import jdk.nashorn.internal.parser.JSONParser;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.text.ParseException;
 
 /**
  * Created by Deadliest Baddest Fattest Motherfucker in Universe on 08.02.2016.

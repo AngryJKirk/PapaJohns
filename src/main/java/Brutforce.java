@@ -1,5 +1,3 @@
-package com.company;
-
 /**
  * Created by Deadliest Baddest Fattest Motherfucker in Universe on 08.02.2016.
  */
